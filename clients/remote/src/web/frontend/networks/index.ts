@@ -11,6 +11,7 @@ import {
     Session,
 } from '@canton-network/core-wallet-user-rpc-client'
 
+import '../index'
 import '/index.css'
 import { stateManager } from '../state-manager'
 import { createUserClient } from '../rpc-client'
